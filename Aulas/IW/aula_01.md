@@ -1,4 +1,4 @@
-# HTMl
+# HTML
 ### O que é HTML?
 HTML é uma linguagem de Marcação de HyperTexto
 
