@@ -34,5 +34,3 @@ Na Persona
 A persona busca entender como é a cabeça do público trabalhado.
 
 ## Como eu faço uma persona?
-
-![Como fazer uma persona](https://images.app.goo.gl/5wvG7G1hhJov9gow8)
